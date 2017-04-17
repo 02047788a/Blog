@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+
+    
+    
+    
+  <url>
+    <loc>http://blog.jimmywu.cc/article/xamarin-forms-17-%E4%BB%8B%E7%B4%B9webwiew%E5%8A%A0%E5%BC%B7%E7%89%88webview.html</loc>
+    <lastmod>2017-04-17T06:16:48.838Z</lastmod>
+    <data>
+        <display>
+        <title> [Xamarin.Forms] 17 介紹WebView ~加強版WebView~</title>
+        <pubTime>2017-04-08T16:00:00.000Z</pubTime>
+        
+        <tag>Xamarin</tag>
+         
+        <tag>WebView</tag>
+         
+         
+           
+             
+              <breadCrumb title="Xamarin" url="http://blog.jimmywu.cc/categories/xamarin/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://blog.jimmywu.cc/article/xamarin-forms-16-%E4%BD%BF%E7%94%A8sqlite-%E5%88%86%E5%B1%A4%E5%BC%8F%E7%A8%8B%E5%BC%8F%E6%9E%B6%E6%A7%8B.html</loc>
+    <lastmod>2017-04-17T06:16:48.837Z</lastmod>
+    <data>
+        <display>
+        <title> [Xamarin.Forms] 16 使用SQLite ~分層式程式架構~</title>
+        <pubTime>2017-04-02T16:00:00.000Z</pubTime>
+        
+        <tag>Xamarin</tag>
+         
+        <tag>使用SQLite</tag>
+         
+         
+           
+             
+              <breadCrumb title="Xamarin" url="http://blog.jimmywu.cc/categories/xamarin/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://blog.jimmywu.cc/article/xamarin-forms-15-tableview-%E4%BB%8B%E7%B4%B9-%E6%83%B3%E8%A6%81%E6%BC%82%E4%BA%AE%E7%9A%84ios%E8%A1%A8%E5%96%AE%E5%97%8E.html</loc>
+    <lastmod>2017-04-17T06:16:48.836Z</lastmod>
+    <data>
+        <display>
+        <title>[Xamarin.Forms] 15 TableView 介紹 ~想要漂亮的iOS表單嗎~</title>
+        <pubTime>2017-03-24T16:00:00.000Z</pubTime>
+        
+        <tag>Xamarin</tag>
+         
+        <tag>TableView</tag>
+         
+         
+           
+             
+              <breadCrumb title="Xamarin" url="http://blog.jimmywu.cc/categories/xamarin/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://blog.jimmywu.cc/article/xamarin-forms-14-mvvm-databinding-%E7%A8%8B%E5%BC%8F%E7%A2%BC%E5%B0%91%E5%BE%88%E5%A4%9A%E3%84%9F.html</loc>
+    <lastmod>2017-04-17T06:16:48.835Z</lastmod>
+    <data>
+        <display>
+        <title>[Xamarin.Forms] 14 MVVM DataBinding ~程式碼少很多ㄟ~</title>
+        <pubTime>2017-03-17T16:00:00.000Z</pubTime>
+        
+        <tag>Xamarin</tag>
+         
+        <tag>DataBinding</tag>
+         
+        <tag>MVVM</tag>
+         
+         
+           
+             
+              <breadCrumb title="Xamarin" url="http://blog.jimmywu.cc/categories/xamarin/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://blog.jimmywu.cc/article/xamarin-forms-13-data-binding-%E5%9F%BA%E7%A4%8E%E7%9F%A5%E8%AD%98%E9%AB%98%E6%89%8B%E4%B8%8D%E8%A6%81%E4%BE%86.html</loc>
+    <lastmod>2017-04-17T06:16:48.834Z</lastmod>
+    <data>
+        <display>
+        <title>[Xamarin.Forms] 13 Data Binding ~基礎知識高手不要來~</title>
+        <pubTime>2017-04-07T16:00:00.000Z</pubTime>
+        
+        <tag>Xamarin</tag>
+         
+        <tag>DataBinding</tag>
+         
+         
+           
+             
+              <breadCrumb title="Xamarin" url="http://blog.jimmywu.cc/categories/xamarin/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://blog.jimmywu.cc/article/xamarin-forms-12-listview%E4%BB%8B%E7%B4%B9-%E6%88%91%E4%B9%9F%E6%9C%892%E6%AC%84%E9%99%B3%E5%88%97%E5%95%86%E5%93%81.html</loc>
+    <lastmod>2017-04-17T06:16:48.833Z</lastmod>
+    <data>
+        <display>
+        <title>[Xamarin.Forms] 12 ListView介紹 ~我也有2欄陳列商品~</title>
+        <pubTime>2017-03-11T16:00:00.000Z</pubTime>
+        
+        <tag>Xamarin</tag>
+         
+        <tag>ListView</tag>
+         
+        <tag>TextCell</tag>
+         
+        <tag>ImageCell</tag>
+         
+        <tag>CustomCecll</tag>
+         
+         
+           
+             
+              <breadCrumb title="Xamarin" url="http://blog.jimmywu.cc/categories/xamarin/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://blog.jimmywu.cc/article/xamarin-forms-11-scrollview%E4%BB%8B%E7%B4%B9-%E8%87%AA%E5%B7%B1%E5%81%9A%E6%B0%B4%E5%B9%B3menu%E9%81%B8%E5%96%AE.html</loc>
+    <lastmod>2017-04-17T06:16:48.832Z</lastmod>
+    <data>
+        <display>
+        <title>[Xamarin.Forms] 11 ScrollView介紹 ~自己做水平MENU選單~</title>
+        <pubTime>2017-03-09T16:00:00.000Z</pubTime>
+        
+        <tag>Xamarin</tag>
+         
+        <tag>ScrollView</tag>
+         
+         
+           
+             
+              <breadCrumb title="Xamarin" url="http://blog.jimmywu.cc/categories/xamarin/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://blog.jimmywu.cc/article/xamarin-forms-10-master-detail-page%E4%BB%8B%E7%B4%B9-%E5%BE%80%E5%B7%A6%E5%BE%80%E5%8F%B3%E6%BB%91%E9%9B%A3%E4%B8%8D%E5%80%92.html</loc>
+    <lastmod>2017-04-17T06:16:48.831Z</lastmod>
+    <data>
+        <display>
+        <title>[Xamarin.Forms] 10 Master-Detail Page介紹 ~往左往右滑難不倒~</title>
+        <pubTime>2017-03-03T16:00:00.000Z</pubTime>
+        
+        <tag>Xamarin</tag>
+         
+        <tag>Master-Detail</tag>
+         
+        <tag>Animation</tag>
+         
+        <tag>Menu</tag>
+         
+         
+           
+             
+              <breadCrumb title="Xamarin" url="http://blog.jimmywu.cc/categories/xamarin/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://blog.jimmywu.cc/article/xamarin-forms-09-navgationpage%E4%BB%8B%E7%B4%B9-%E7%82%BA%E4%BB%80%E9%BA%BC%E5%90%84%E5%B9%B3%E5%8F%B0%E4%B8%8D%E4%B8%80%E6%A8%A3.html</loc>
+    <lastmod>2017-04-17T06:16:48.830Z</lastmod>
+    <data>
+        <display>
+        <title>[Xamarin.Forms] 09 NavgationPage介紹 ~為什麼各平台不一樣??~</title>
+        <pubTime>2017-02-27T16:00:00.000Z</pubTime>
+        
+        <tag>Xamarin</tag>
+         
+        <tag>NavgationPage</tag>
+         
+        <tag>NavgationBar</tag>
+         
+         
+           
+             
+              <breadCrumb title="Xamarin" url="http://blog.jimmywu.cc/categories/xamarin/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://blog.jimmywu.cc/article/xamarin-forms-08-tabbedpage%E4%BB%8B%E7%B4%B9-%E4%B8%8A%E4%B8%8A%E4%B8%8B%E4%B8%8B%E6%90%9E%E5%BE%97%E6%88%91%E5%A5%BD%E4%BA%82.html</loc>
+    <lastmod>2017-04-17T06:16:48.829Z</lastmod>
+    <data>
+        <display>
+        <title>[Xamarin.Forms] 08 TabbedPage介紹 ~上上下下搞得我好亂~</title>
+        <pubTime>2017-02-27T16:00:00.000Z</pubTime>
+        
+        <tag>Xamarin</tag>
+         
+        <tag>TabbedPage</tag>
+         
+         
+           
+             
+              <breadCrumb title="Xamarin" url="http://blog.jimmywu.cc/categories/xamarin/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://blog.jimmywu.cc/article/xamarin-forms-07-entry-editor%E4%BB%8B%E7%B4%B9-%E6%88%91%E4%B8%8D%E8%A6%81.html</loc>
+    <lastmod>2017-04-17T06:16:48.828Z</lastmod>
+    <data>
+        <display>
+        <title>[Xamarin.Forms] 07 Entry&Editor介紹 ~我不要</title>
+        <pubTime>2017-02-26T16:00:00.000Z</pubTime>
+        
+        <tag>Xamarin</tag>
+         
+        <tag>CustomView</tag>
+         
+        <tag>Entry</tag>
+         
+        <tag>Editor</tag>
+         
+         
+           
+             
+              <breadCrumb title="Xamarin" url="http://blog.jimmywu.cc/categories/xamarin/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://blog.jimmywu.cc/article/xamarin-forms-06-image%E4%BB%8B%E7%B4%B9-%E6%88%91%E8%A6%81%E5%9C%93%E5%BD%A2%E7%9A%84%E5%9C%96%E7%89%87.html</loc>
+    <lastmod>2017-04-17T06:16:48.827Z</lastmod>
+    <data>
+        <display>
+        <title>[Xamarin.Forms] 06 Image介紹 ~我要圓形的圖片~</title>
+        <pubTime>2017-02-26T16:00:00.000Z</pubTime>
+        
+        <tag>Xamarin</tag>
+         
+        <tag>Image</tag>
+         
+        <tag>CircleImage</tag>
+         
+        <tag>WebImage</tag>
+         
+         
+           
+             
+              <breadCrumb title="Xamarin" url="http://blog.jimmywu.cc/categories/xamarin/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://blog.jimmywu.cc/article/xamarin-forms-05-layout%E7%B3%BB%E5%88%97-relativelayout.html</loc>
+    <lastmod>2017-04-17T06:16:48.826Z</lastmod>
+    <data>
+        <display>
+        <title>[Xamarin.Forms] 05 Layout系列 RelativeLayout</title>
+        <pubTime>2017-02-25T16:00:00.000Z</pubTime>
+        
+        <tag>Xamarin</tag>
+         
+        <tag>Layout</tag>
+         
+        <tag>RelativeLayout</tag>
+         
+         
+           
+             
+              <breadCrumb title="Xamarin" url="http://blog.jimmywu.cc/categories/xamarin/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://blog.jimmywu.cc/article/xamarin-forms-04-layout%E7%B3%BB%E5%88%97-absolutelayout.html</loc>
+    <lastmod>2017-04-17T06:16:48.826Z</lastmod>
+    <data>
+        <display>
+        <title>[Xamarin.Forms] 04 Layout系列 AbsoluteLayout</title>
+        <pubTime>2017-02-25T16:00:00.000Z</pubTime>
+        
+        <tag>Xamarin</tag>
+         
+        <tag>Layout</tag>
+         
+        <tag>AbsoluteLayout</tag>
+         
+         
+           
+             
+              <breadCrumb title="Xamarin" url="http://blog.jimmywu.cc/categories/xamarin/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://blog.jimmywu.cc/article/xamarin-forms-03-layout%E7%B3%BB%E5%88%97-grid.html</loc>
+    <lastmod>2017-04-17T06:16:48.825Z</lastmod>
+    <data>
+        <display>
+        <title>[Xamarin.Forms] 03 Layout系列 Grid</title>
+        <pubTime>2017-02-25T16:00:00.000Z</pubTime>
+        
+        <tag>Xamarin</tag>
+         
+        <tag>Layout</tag>
+         
+        <tag>Grid</tag>
+         
+         
+           
+             
+              <breadCrumb title="Xamarin" url="http://blog.jimmywu.cc/categories/xamarin/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://blog.jimmywu.cc/article/xamarin-forms-02-layout%E7%B3%BB%E5%88%97-stakelayout.html</loc>
+    <lastmod>2017-04-17T06:16:48.823Z</lastmod>
+    <data>
+        <display>
+        <title>[Xamarin.Forms] 02 Layout系列 StakeLayout</title>
+        <pubTime>2017-02-24T16:00:00.000Z</pubTime>
+        
+        <tag>Xamarin</tag>
+         
+        <tag>Layout</tag>
+         
+        <tag>StakeLayout</tag>
+         
+         
+           
+             
+              <breadCrumb title="Xamarin" url="http://blog.jimmywu.cc/categories/xamarin/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://blog.jimmywu.cc/article/xamarin-forms-01-%E5%BE%9Examl%E9%96%8B%E5%A7%8B.html</loc>
+    <lastmod>2017-04-17T06:16:48.822Z</lastmod>
+    <data>
+        <display>
+        <title>[Xamarin.Forms] 01 從XAML開始</title>
+        <pubTime>2017-02-10T16:00:00.000Z</pubTime>
+        
+        <tag>Xamarin</tag>
+         
+         
+           
+             
+              <breadCrumb title="Xamarin" url="http://blog.jimmywu.cc/categories/xamarin/"/>
+          
+        </display>
+    </data>
+    </url>
+
+</urlset>

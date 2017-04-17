@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://blog.jimmywu.cc/tags/index.html</loc>
+    
+    <lastmod>2017-04-17T06:16:48.842Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://blog.jimmywu.cc/categories/index.html</loc>
+    
+    <lastmod>2017-04-17T06:16:48.839Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://blog.jimmywu.cc/article/xamarin-forms-17-%E4%BB%8B%E7%B4%B9webwiew%E5%8A%A0%E5%BC%B7%E7%89%88webview.html</loc>
+    
+    <lastmod>2017-04-17T06:16:48.838Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://blog.jimmywu.cc/article/xamarin-forms-16-%E4%BD%BF%E7%94%A8sqlite-%E5%88%86%E5%B1%A4%E5%BC%8F%E7%A8%8B%E5%BC%8F%E6%9E%B6%E6%A7%8B.html</loc>
+    
+    <lastmod>2017-04-17T06:16:48.837Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://blog.jimmywu.cc/article/xamarin-forms-15-tableview-%E4%BB%8B%E7%B4%B9-%E6%83%B3%E8%A6%81%E6%BC%82%E4%BA%AE%E7%9A%84ios%E8%A1%A8%E5%96%AE%E5%97%8E.html</loc>
+    
+    <lastmod>2017-04-17T06:16:48.836Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://blog.jimmywu.cc/article/xamarin-forms-14-mvvm-databinding-%E7%A8%8B%E5%BC%8F%E7%A2%BC%E5%B0%91%E5%BE%88%E5%A4%9A%E3%84%9F.html</loc>
+    
+    <lastmod>2017-04-17T06:16:48.835Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://blog.jimmywu.cc/article/xamarin-forms-13-data-binding-%E5%9F%BA%E7%A4%8E%E7%9F%A5%E8%AD%98%E9%AB%98%E6%89%8B%E4%B8%8D%E8%A6%81%E4%BE%86.html</loc>
+    
+    <lastmod>2017-04-17T06:16:48.834Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://blog.jimmywu.cc/article/xamarin-forms-12-listview%E4%BB%8B%E7%B4%B9-%E6%88%91%E4%B9%9F%E6%9C%892%E6%AC%84%E9%99%B3%E5%88%97%E5%95%86%E5%93%81.html</loc>
+    
+    <lastmod>2017-04-17T06:16:48.833Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://blog.jimmywu.cc/article/xamarin-forms-11-scrollview%E4%BB%8B%E7%B4%B9-%E8%87%AA%E5%B7%B1%E5%81%9A%E6%B0%B4%E5%B9%B3menu%E9%81%B8%E5%96%AE.html</loc>
+    
+    <lastmod>2017-04-17T06:16:48.832Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://blog.jimmywu.cc/article/xamarin-forms-10-master-detail-page%E4%BB%8B%E7%B4%B9-%E5%BE%80%E5%B7%A6%E5%BE%80%E5%8F%B3%E6%BB%91%E9%9B%A3%E4%B8%8D%E5%80%92.html</loc>
+    
+    <lastmod>2017-04-17T06:16:48.831Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://blog.jimmywu.cc/article/xamarin-forms-09-navgationpage%E4%BB%8B%E7%B4%B9-%E7%82%BA%E4%BB%80%E9%BA%BC%E5%90%84%E5%B9%B3%E5%8F%B0%E4%B8%8D%E4%B8%80%E6%A8%A3.html</loc>
+    
+    <lastmod>2017-04-17T06:16:48.830Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://blog.jimmywu.cc/article/xamarin-forms-08-tabbedpage%E4%BB%8B%E7%B4%B9-%E4%B8%8A%E4%B8%8A%E4%B8%8B%E4%B8%8B%E6%90%9E%E5%BE%97%E6%88%91%E5%A5%BD%E4%BA%82.html</loc>
+    
+    <lastmod>2017-04-17T06:16:48.829Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://blog.jimmywu.cc/article/xamarin-forms-07-entry-editor%E4%BB%8B%E7%B4%B9-%E6%88%91%E4%B8%8D%E8%A6%81.html</loc>
+    
+    <lastmod>2017-04-17T06:16:48.828Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://blog.jimmywu.cc/article/xamarin-forms-06-image%E4%BB%8B%E7%B4%B9-%E6%88%91%E8%A6%81%E5%9C%93%E5%BD%A2%E7%9A%84%E5%9C%96%E7%89%87.html</loc>
+    
+    <lastmod>2017-04-17T06:16:48.827Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://blog.jimmywu.cc/article/xamarin-forms-05-layout%E7%B3%BB%E5%88%97-relativelayout.html</loc>
+    
+    <lastmod>2017-04-17T06:16:48.826Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://blog.jimmywu.cc/article/xamarin-forms-04-layout%E7%B3%BB%E5%88%97-absolutelayout.html</loc>
+    
+    <lastmod>2017-04-17T06:16:48.826Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://blog.jimmywu.cc/article/xamarin-forms-03-layout%E7%B3%BB%E5%88%97-grid.html</loc>
+    
+    <lastmod>2017-04-17T06:16:48.825Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://blog.jimmywu.cc/article/xamarin-forms-02-layout%E7%B3%BB%E5%88%97-stakelayout.html</loc>
+    
+    <lastmod>2017-04-17T06:16:48.823Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://blog.jimmywu.cc/article/xamarin-forms-01-%E5%BE%9Examl%E9%96%8B%E5%A7%8B.html</loc>
+    
+    <lastmod>2017-04-17T06:16:48.822Z</lastmod>
+    
+  </url>
+  
+</urlset>
